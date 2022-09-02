@@ -10,8 +10,8 @@ import os
 
 # 分類対象のカテゴリ
 ##root_dir = "/"
-categories = ["blue-a", "white-a", "red-a"]
-### 20220903 categories = ["yellow", "green"]
+#### 20220903categories = ["blue-a", "white-a", "red-a"]
+categories = ["yellow", "green"]
 
 nb_classes = len(categories)
 image_size = 50
